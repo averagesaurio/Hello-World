@@ -1,2 +1,4 @@
 # Hello-World
-First repository, created for learning the basics.
+
+
+Well, let's see if I learn something from this. So expectations. Much happy. Very intAWWresting!
